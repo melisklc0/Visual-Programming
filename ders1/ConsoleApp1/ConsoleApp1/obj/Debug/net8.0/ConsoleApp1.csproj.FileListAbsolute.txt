@@ -1,0 +1,14 @@
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Üniversite\4. SINIF\Görsel Programlama\ders1\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

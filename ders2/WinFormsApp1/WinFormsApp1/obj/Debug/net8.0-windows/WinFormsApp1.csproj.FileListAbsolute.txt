@@ -1,0 +1,17 @@
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\Üniversite\4. SINIF\Görsel Programlama\ders2\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
